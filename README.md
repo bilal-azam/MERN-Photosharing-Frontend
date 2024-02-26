@@ -1,1 +1,1 @@
-# https-github.com-thebilz2-MERN-Photosharing-Frontend
+# MERN-Photosharing-Frontend
